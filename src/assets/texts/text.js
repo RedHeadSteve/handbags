@@ -1,0 +1,5 @@
+export const lorem = {
+    brandp1: "Raclette vibecession pickled distillery, plaid typewriter jianbing food truck tacos hashtag jean shorts tonx. Intelligentsia cold-pressed wayfarers bicycle rights tousled bushwick selfies literally messenger bag. Marfa skateboard mukbang tote bag. Praxis ascot chartreuse, tonx gochujang marxism tote bag pok pok hashtag heirloom listicle.",
+    brandp2: "I'm baby portland microdosing gastropub forage roof party whatever DIY tbh mlkshk vexillologist put a bird on it vape. Vinyl waistcoat fashion axe blog jianbing beard paleo big mood. Poke pour-over neutra, enamel pin snackwave vegan organic. Master cleanse YOLO pour-over viral.",
+    story: "Microdosing direct trade ennui, slow-carb migas narwhal hot chicken fixie hashtag mixtape. Readymade vexillologist coloring book tonx dreamcatcher pinterest meggings bodega boys cornhole blue bottle sustainable solarpunk hashtag DIY. Four loko authentic twee, beard XOXO tattooed letterpress 8-bit. Affogato polaroid cornhole cliche, ramps listicle messenger bag hexagon bruh street art. Tumeric copper mug kinfolk cred cloud bread.",
+}
